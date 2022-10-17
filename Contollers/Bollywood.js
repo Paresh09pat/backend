@@ -52,3 +52,5 @@ const bollywood = (req, res) => {
         }
     ])
 }
+
+module.exports.apicontrol = bollywood;
