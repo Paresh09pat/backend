@@ -1,11 +1,11 @@
 const express = require("express");
 
-const server = require('../Contollers/data');
+const server = require('../Contollers/Bollywood')
 
 const dataRouter = express.Router();
 
 dataRouter
-  .route("/home")
+  .route("/bolly")
 
   .get(server.apicontroller);
 module.exports = dataRouter;
