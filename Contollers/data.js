@@ -61,7 +61,7 @@ const data = (req, res) => {
     },
     {
       "id": 8,
-      "title": "The World Goes Towards New Technology",
+      "title": "The World Goes Towards Technology",
       "Image": "https://th.bing.com/th/id/OIP.5fOMbKN54vHEBvVD4wYtQwHaE8?pid=ImgDet&rs=1",
       "category": "mix",
       "description": "In a scene just before Amazon Prime’s Samaritan climaxes, the protagonist played by a worn and visibly old Sylvester Stallone tells an exuberant kid “The things is there is good and bad inside each one of us”. It is a rather declarative way of ending a film but given the film’s late narrative twist, it is also a neatly pulled-off message. But cinema isn’t just the messaging, but also the craft of leading you through a journey that makes the message palatable, even if unexpected. In Samaritan, no such thing happens as a film ripe with promise and casted perhaps to perfection, meanders pointlessly before turning around at the end, to reveal it had bright ideas all along, just not the tools to design a decent story around it. It is decent rescue act, loaded with an interesting moral quandary, but it appears in quantity far little, far too late.Samaritan is the story of the most obviously named white guy from Atlantic City – Joe Smith. Smith picks up garbage, wears a hoodie and keeps to himself. He is also an old man, an aspect of his character that the film does a poor job of exploring. Joe’s life is pre-dated by a famous feud between two superheroes –  the good one being Samaritan and the bad one called Nemesis. A fight to the end, we are told in the prologue, ended with the death of Nemesis. Samaritan has since gone missing too. Of course it has been clear all along, ever since the trailer for the film released that Stallone is the superhero out of commission. His withdrawal from playing saviour, however, isn’t exactly fleshed as much as it is argued over with the diction of someone who has just found what research is."
@@ -82,7 +82,7 @@ const data = (req, res) => {
     },
     {
       "id": 11,
-      "title": "These Harmless foods for Cancer Patients",
+      "title": "These Harmless foods for Patients",
       "Image": "https://th.bing.com/th/id/OIP.-NChnno_sC5oN6O706SpRgHaHa?w=189&h=189&c=7&r=0&o=5&dpr=1.25&pid=1.7",
       "category": "mix",
       "description": "he nutrition needs of people with cancer vary from person to person. Your cancer care team can help you identify your nutrition goals and plan ways to help you meet them.Eating well while you’re being treated for cancer would help you: 1) Feel better2) Keep up your strength and energy3) Maintain your weight and your body’s store of nutrient4) Better tolerate treatment related side effects 5) Lower your risk of infections6) Heal and recover fasterEating well means eating a variety of foods to get the nutrients your body needs to fight cancer. These nutrients include proteins, fats, carbohydrates, water, vitamins, and minerals. "
